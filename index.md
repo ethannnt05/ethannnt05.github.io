@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Ethan Tran and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Mechanical Engineering
+This is my home page! My name is Ethan Tran and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Mechanical Engineering.
 
 ## Computer Science Projects
 
